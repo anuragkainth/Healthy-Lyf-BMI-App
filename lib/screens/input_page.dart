@@ -5,7 +5,6 @@ import '../components/reusableCard_widget.dart';
 import '../components/cardDecor_widget.dart';
 import '../constants.dart';
 import '../components/round_icon_button.dart';
-import 'results_page.dart';
 import '../components/bottom_button_card.dart';
 import 'package:bmi_main/calculation_bmi.dart';
 
@@ -251,7 +250,8 @@ class _InputPageState extends State<InputPage> {
                       interpretation: calc.getInterpret()
                     )));
               },
-              displayText: 'CALCULATE BMI')
+              displayText: 'CALCULATE BMI'
+          )
         ],
       ),
     );

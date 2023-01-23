@@ -22,7 +22,6 @@ class BottomButtonCard extends StatelessWidget {
         color: kBottomContainerColor,
         margin: EdgeInsets.only(top: 10.0),
         padding: EdgeInsets.only(bottom: 20.0),
-        width: double.infinity,
         // We made a const variable at top as value of height of
         // this container will remain same all the time
         height: kBottomContainerHeight,

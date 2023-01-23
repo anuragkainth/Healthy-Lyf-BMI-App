@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 // hence code is more clean now
 const kBottomContainerHeight = 80.0;
 const kInactiveCardColor = Color(0xFF151d29); // 0xFF1D1F33
-const kActiveCardColor = Color(0xFF121823); //0xFF111328
+const kActiveCardColor = Color(0xFF0e131d); //0xFF111328
 const kBottomContainerColor = Color( 0xFFFF7111); //0xFF88F0A4 // 0xFFEB1555
 // Slider Constants
 const kSliderActiveColor = Colors.white;
