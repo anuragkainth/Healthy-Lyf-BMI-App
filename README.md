@@ -1,16 +1,45 @@
-# bmi_main
 
-A new Flutter project.
 
-## Getting Started
+# Healthy Lyf App
 
-This project is a starting point for a Flutter application.
+- This Flutter cross-platform project features a BMI calculator app that empowers users to promptly determine their BMI status by inputting vital parameters like gender, age, height, and weight.
 
-A few resources to get you started if this is your first Flutter project:
+- Users can conveniently save their BMI results by entering their name on the result page. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Moreover, the history page showcases an all-encompassing results of the previous BMI calculations alongside pertinent information like the person's name, date of the calculation, and BMI status, which can be normal, overweight, underweight, or obese. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- The app boasts a visually captivating UI design and is crafted to deliver an exceptional user experience. 
+
+## Features
+
+- cross-platform 
+- Result saving
+- History tracking
+- Intiutive & user friendly
+
+## Screenshots
+
+<p align="left">
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/Home.png?raw=true" width="200" />
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/n2.png?raw=true" width="200"  />
+</p>
+
+<p align="left">
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/uw1.png?raw=true" width="200" />
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/uw2.png?raw=true" width="200"  />
+</p>
+
+<p align="left">
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ow1.png?raw=true" width="200" />
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ow2.png?raw=true" width="200"  />
+</p>
+
+<p align="left">
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ob1.png?raw=true" width="200" />
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ob2.png?raw=true" width="200"  />
+</p>
+
+<p align="left">
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/enterName2.png?raw=true" width="200" />
+  <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/HistoryPage.png?raw=true" width="200"  />
+</p>
