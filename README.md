@@ -21,25 +21,30 @@
 
 <p align="left">
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/Home.png?raw=true" width="200" />
+  <img src="https://user-images.githubusercontent.com/94080341/229715403-5a6332e6-77a6-4e26-af62-4bda2334c388.png" width="270" />
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/n2.png?raw=true" width="200"  />
 </p>
 
 <p align="left">
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/uw1.png?raw=true" width="200" />
+  <img src="https://user-images.githubusercontent.com/94080341/229715403-5a6332e6-77a6-4e26-af62-4bda2334c388.png" width="270" />
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/uw2.png?raw=true" width="200"  />
 </p>
 
 <p align="left">
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ow1.png?raw=true" width="200" />
+  <img src="https://user-images.githubusercontent.com/94080341/229715403-5a6332e6-77a6-4e26-af62-4bda2334c388.png" width="270" />
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ow2.png?raw=true" width="200"  />
 </p>
 
 <p align="left">
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ob1.png?raw=true" width="200" />
+  <img src="https://user-images.githubusercontent.com/94080341/229715403-5a6332e6-77a6-4e26-af62-4bda2334c388.png" width="270" />
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/ob2.png?raw=true" width="200"  />
 </p>
 
 <p align="left">
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/enterName2.png?raw=true" width="200" />
+  <img src="https://user-images.githubusercontent.com/94080341/229715403-5a6332e6-77a6-4e26-af62-4bda2334c388.png" width="270" />
   <img src="https://github.com/anuragkainth/Healthy-Lyf-BMI-App/blob/main/Screenshots/HistoryPage.png?raw=true" width="200"  />
 </p>
